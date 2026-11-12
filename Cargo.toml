@@ -1,0 +1,3 @@
+[workspace]
+resolver = "3"
+members = ["crates/makedrt","crates/makedrt-backend","crates/makedrt-cpu", "crates/makedrt-engine", "crates/makedrt-model"]
